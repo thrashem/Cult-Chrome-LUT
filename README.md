@@ -1,5 +1,4 @@
 ## Cult Chrome LUT
-***
 Cult Chrome LUTは、画像編集や動画編集アプリでの使用を想定したルックアップテーブル(LUT)です。  
 [Cutl Chrome LUT](https://github.com/thrashem/Cult-Chrome-LUT/blob/main/CultChromeLUT.png)
   
